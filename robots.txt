@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istrythel.github.io/sitemap
+Sitemap: https://istrythel.github.io/app/sitemap
+Sitemap: https://istrythel.github.io/assets/sitemap
+Sitemap: https://istrythel.github.io/css/sitemap
+Sitemap: https://istrythel.github.io/includes/sitemap
+Sitemap: https://istrythel.github.io/item/sitemap
+Sitemap: https://istrythel.github.io/src/sitemap
